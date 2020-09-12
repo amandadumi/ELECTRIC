@@ -1,0 +1,3 @@
+[submodule "modules/Tinker_Electric"]
+	path = modules/Tinker_Electric
+	url = git@github.com:WelbornGroup/Tinker_ELECTRIC.git
